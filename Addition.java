@@ -20,7 +20,7 @@ public class Addition {
 		
 		sum = num1 + num2;
 		System.out.println("Sum of two numbers is : " +sum);
-		
+		//Added this from GIT hub for testing
 	}
 
 }
